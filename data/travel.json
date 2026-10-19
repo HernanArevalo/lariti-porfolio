@@ -1,0 +1,113 @@
+{
+  "title": "Viajes",
+  "intro": "Tutoriales, opiniones sinceras, servicios que recomiendo, experiencias y colaboraciones con destinos y marcas de turismo.",
+  "categories": [
+    "Tutoriales",
+    "Opiniones",
+    "Servicios recomendados",
+    "Experiencias pagas",
+    "Colaboraciones"
+  ],
+  "items": [
+    {
+      "category": "Tutoriales",
+      "destination": "Lisboa",
+      "title": "Cómo moverte sin auto",
+      "description": "Transporte público, tarjetas y apps explicadas paso a paso.",
+      "hue": 24,
+      "type": "video",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Tutoriales",
+      "destination": "Cusco",
+      "title": "Qué llevar en la mochila",
+      "description": "Lista real de lo que sirve y lo que sobra para ocho días.",
+      "hue": 170,
+      "type": "photo",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Opiniones",
+      "destination": "Mendoza",
+      "title": "Mi opinión sincera del hotel",
+      "description": "Qué estuvo bien, qué no y para quién lo recomiendo.",
+      "hue": 330,
+      "type": "video",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Opiniones",
+      "destination": "Tulum",
+      "title": "¿Vale la pena el tour?",
+      "description": "Precio, duración y si lo volvería a hacer.",
+      "hue": 48,
+      "type": "photo",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Servicios recomendados",
+      "destination": "Bariloche",
+      "title": "Alquiler de equipo de nieve",
+      "description": "Dónde alquilé, cuánto salió y cómo reservar a tiempo.",
+      "hue": 210,
+      "type": "photo",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Servicios recomendados",
+      "destination": "Cualquier destino",
+      "title": "El seguro de viaje que uso",
+      "description": "Qué cubre y qué conviene revisar antes de contratar.",
+      "hue": 150,
+      "type": "video",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Experiencias pagas",
+      "destination": "Iguazú",
+      "title": "Paseo en lancha",
+      "description": "Experiencia contada con detalle, contenido pago.",
+      "hue": 12,
+      "type": "video",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Experiencias pagas",
+      "destination": "Cartagena",
+      "title": "Día de playa en isla",
+      "description": "Cómo fue la jornada completa, contenido pago.",
+      "hue": 190,
+      "type": "photo",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Colaboraciones",
+      "destination": "Mar del Plata",
+      "title": "Estadía con Hotel Brisa",
+      "description": "Colaboración de tres videos y una serie de fotos.",
+      "hue": 40,
+      "type": "video",
+      "src": "",
+      "poster": ""
+    },
+    {
+      "category": "Colaboraciones",
+      "destination": "Salta",
+      "title": "Campaña con Aerolínea Cielo",
+      "description": "Contenido para redes y anuncios del destino.",
+      "hue": 22,
+      "type": "photo",
+      "src": "",
+      "poster": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Lari Tissera",
+  "brand": "lariti.",
+  "title": "Lari Tissera, creadora de contenido UGC",
+  "tagline": "Creadora de contenido UGC en video y foto",
+  "email": "hola@laritissera.com",
+  "marquee": ["Reseñas", "Unboxing", "Rutinas", "Anuncios", "Lifestyle", "Producto", "Tutoriales", "Antes y después"],
+  "nav": [
+    { "id": "ugc", "label": "UGC" },
+    { "id": "marcas", "label": "Marcas" },
+    { "id": "foto", "label": "Fotografía" },
+    { "id": "viajes", "label": "Viajes" },
+    { "id": "sobre-mi", "label": "Sobre mí" },
+    { "id": "contacto", "label": "Contacto" }
+  ],
+  "about": {
+    "intro": "Creo contenido UGC en video y foto para marcas que quieren mostrarse con naturalidad.",
+    "initials": "LT",
+    "photo": "",
+    "details": [
+      { "label": "Nombre", "value": "Lari Tissera" },
+      { "label": "Formatos", "value": "Video y foto" }
+    ],
+    "work": ["Creación de contenido UGC", "Edición de video", "Fotografía de producto", "Guiones y conceptos"]
+  },
+  "socials": [
+    { "name": "Instagram", "handle": "@laritissera", "url": "https://www.instagram.com/laritissera", "stats": [{ "value": 18200, "label": "seguidores" }, { "value": 240, "label": "publicaciones" }] },
+    { "name": "TikTok", "handle": "@lariti_", "url": "https://www.tiktok.com/@lariti_", "stats": [{ "value": 54300, "label": "seguidores" }, { "value": 1200000, "label": "me gusta" }] },
+    { "name": "YouTube", "handle": "@laritissera", "url": "https://www.youtube.com/@laritissera", "stats": [{ "value": 6100, "label": "suscriptores" }, { "value": 85, "label": "videos" }] }
+  ],
+  "contact": { "title": "Hagamos algo juntas", "text": "Contame sobre tu marca y qué contenido necesitás. Te respondo con ideas y una propuesta.", "button": "Escribime" }
+}

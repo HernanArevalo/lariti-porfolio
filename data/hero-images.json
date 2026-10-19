@@ -1,0 +1,30 @@
+[
+  {
+    "type": "photo",
+    "hue": 170,
+    "src": "",                                   
+    "poster": "",
+    "caption": ""
+  },
+  {
+    "type": "photo",
+    "hue": 24,
+    "src": "",
+    "poster": "",
+    "caption": ""
+  },
+  {
+    "type": "video",
+    "hue": 210,
+    "src": "",
+    "poster": "",
+    "caption": ""
+  },
+  {
+    "type": "photo",
+    "hue": 48,
+    "src": "",
+    "poster": "",
+    "caption": ""
+  }
+]

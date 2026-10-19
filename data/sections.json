@@ -1,0 +1,179 @@
+[
+  {
+    "id": "ugc",
+    "title": "Contenido UGC",
+    "intro": "Videos que se sienten reales: reseñas, unboxings y rutinas filmadas en casa, listos para anuncios y redes.",
+    "items": [
+      {
+        "brand": "Aurora Skincare",
+        "title": "Rutina de noche",
+        "description": "Reseña en primera persona de una rutina de tres pasos, con textura y resultados a la vista.",
+        "tags": [
+          "Video 9:16",
+          "30 s",
+          "Reseña"
+        ],
+        "type": "video",
+        "hue": 150,
+        "media": [
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          }
+        ]
+      },
+      {
+        "brand": "Casa Nube",
+        "title": "Unboxing de hogar",
+        "description": "Apertura de pedido y primeras impresiones, con voz en off natural.",
+        "tags": [
+          "Video 9:16",
+          "45 s",
+          "Unboxing"
+        ],
+        "type": "video",
+        "hue": 35,
+        "media": [
+          {
+            "src": "",
+            "poster": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "marcas",
+    "title": "Contenido para marcas",
+    "intro": "Piezas pensadas para campañas: guion, edición y formatos listos para cada plataforma.",
+    "items": [
+      {
+        "brand": "Mate & Co.",
+        "title": "Campaña de lanzamiento",
+        "description": "Serie de tres cortos para anuncios pagos, con gancho en los primeros segundos.",
+        "tags": [
+          "Video 9:16",
+          "15 s",
+          "Anuncio"
+        ],
+        "type": "video",
+        "hue": 12,
+        "media": [
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          }
+        ]
+      },
+      {
+        "brand": "Brisa Sport",
+        "title": "Entrenamiento en casa",
+        "description": "Producto en uso con ritmo ágil, subtítulos y cierre con llamado a la acción.",
+        "tags": [
+          "Video 9:16",
+          "20 s",
+          "Campaña"
+        ],
+        "type": "video",
+        "hue": 200,
+        "media": [
+          {
+            "src": "",
+            "poster": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foto",
+    "title": "Fotografía",
+    "intro": "Producto en uso, estilo de vida y detalles para tienda online y redes.",
+    "items": [
+      {
+        "brand": "Aurora Skincare",
+        "title": "Producto y luz natural",
+        "description": "Set de fotos de producto sobre fondo neutro y en mano, para tienda y feed.",
+        "tags": [
+          "Foto 4:5",
+          "12 imágenes",
+          "Producto"
+        ],
+        "type": "photo",
+        "hue": 170,
+        "media": [
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          },
+          {
+            "src": "",
+            "poster": ""
+          }
+        ]
+      },
+      {
+        "brand": "Casa Nube",
+        "title": "Estilo de vida",
+        "description": "Fotos del producto integrado en el hogar, con escenas cálidas y reales.",
+        "tags": [
+          "Foto 4:5",
+          "8 imágenes",
+          "Lifestyle"
+        ],
+        "type": "photo",
+        "hue": 48,
+        "media": [
+          {
+            "src": "",
+            "poster": ""
+          }
+        ]
+      }
+    ]
+  }
+]
