@@ -6,7 +6,7 @@ import { site } from '../lib/data';
 const sans = Manrope({ subsets: ['latin'], variable: '--font-sans', display: 'swap' });
 const serif = Instrument_Serif({ subsets: ['latin'], weight: '400', variable: '--font-serif', display: 'swap' });
 
-export const metadata: Metadata = { title: "lariti.", description: site.tagline };
+export const metadata: Metadata = { title: "lariti. | Lari Tissera", description: site.tagline };
 export const viewport: Viewport = { width: 'device-width', initialScale: 1, viewportFit: 'cover' };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

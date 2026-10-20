@@ -27,6 +27,7 @@ export default function LightboxProvider({ children }: { children: ReactNode }) 
 
   const it = st ? st.list[st.i] : null;
   const rt = it ? it.aspect || (it.type === 'video' ? 9 / 16 : 4 / 5) : 1;
+  const muxPlayer = it?.type === 'video' && it.src?.includes('player.mux.com/');
 
   return (
     <Ctx.Provider value={open}>
@@ -36,7 +37,15 @@ export default function LightboxProvider({ children }: { children: ReactNode }) 
           <>
             <button aria-label="Cerrar" onClick={close}>×</button>
             <div className="box g" style={css({ '--h': it.hue, aspectRatio: rt, height: 'auto', width: `min(92vw,${(82 * rt).toFixed(2)}svh,${it.aspect ? 1100 : Math.round(760 * rt)}px)` })}>
-              {it.src ? (
+              {it.src && muxPlayer ? (
+                <iframe
+                  className="mi"
+                  src={`${it.src}${it.src.includes('?') ? '&' : '?'}autoplay=true`}
+                  title={it.caption || 'Reproductor de video'}
+                  allow="autoplay; encrypted-media; picture-in-picture"
+                  allowFullScreen
+                />
+              ) : it.src ? (
                 it.type === 'video' ? (
                   <video className="mi" src={it.src} poster={it.poster || undefined} controls autoPlay loop playsInline />
                 ) : (
