@@ -37,10 +37,10 @@
     "y": 13,
     "w": 14,
     "ratio": 1.4,
-    "type": "video",
+    "type": "photo",
     "hue": 12,
-    "src": "",
-    "poster": "",
+    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792524538/lariti-website/vxxmgsxpwbuhcr8xph7n.webp",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792524538/lariti-website/vxxmgsxpwbuhcr8xph7n.webp",
     "label": ""
   },
   {
@@ -94,8 +94,8 @@
     "ratio": 1.3,
     "type": "photo",
     "hue": 170,
-    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285426/vojh055reyaehqtvofmc.jpg",
-    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285426/vojh055reyaehqtvofmc.jpg",
+    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285429/lariti-website/rxdm7we4dq8n17rhuf2b.jpg",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285429/lariti-website/rxdm7we4dq8n17rhuf2b.jpg",
     "label": ""
   },
   {
@@ -116,8 +116,8 @@
     "ratio": 1.2,
     "type": "video",
     "hue": 44,
-    "src": "",
-    "poster": "",
+    "src": "https://player.mux.com/TTzLZfGIJN100tHo53ZbEeZ4YxhOeqLfbPb9LYTAmhhk?metadata-video-title=Outfit+check&video-title=Outfit+check",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792522727/lariti-website/portadas/zp3mpl4zqjexm9w3a7xx.png",
     "label": ""
   },
   {
@@ -125,21 +125,21 @@
     "y": 75,
     "w": 12,
     "ratio": 1.6,
-    "type": "photo",
+    "type": "video",
     "hue": 190,
-    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285669/xowyi0m4lyd39k57ikk3.jpg",
-    "poster": "",
+    "src": "https://player.mux.com/02ClCR5Zk7PRPRtJFlZsQjzPkEt2D8uoi7tAYiilCiv8?metadata-video-title=+GRWM&video-title=+GRWM",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792523204/lariti-website/portadas/e7je6vva5vrtpjnnnevd.png",
     "label": ""
   },
   {
     "x": 45,
-    "y": 89,
+    "y": 90,
     "w": 14,
-    "ratio": 1,
+    "ratio": 1.6,
     "type": "photo",
     "hue": 10,
-    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285532/vaqkf52n1rshbdjrtmxb.jpg",
-    "poster": "",
+    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792524519/lariti-website/olfsuwyjrurgjgl9vuul.webp",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792524519/lariti-website/olfsuwyjrurgjgl9vuul.webp",
     "label": ""
   },
   {
@@ -171,8 +171,8 @@
     "ratio": 1.3,
     "type": "video",
     "hue": 20,
-    "src": "",
-    "poster": "",
+    "src": "https://player.mux.com/Ce7uCWdH81pFWmID1tNbbEqQNeRAkNYvD1BqNLV1Hjc?metadata-video-title=+Sea+transici%C3%B3n&video-title=+Sea+transici%C3%B3n",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792522901/lariti-website/portadas/wxmhsafutthjfm1r75u2.png",
     "label": ""
   }
 ]
