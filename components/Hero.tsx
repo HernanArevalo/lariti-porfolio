@@ -74,7 +74,7 @@ export default function Hero({ name, tagline, cloud, pics }: Props) {
               </button>
             );
           })}
-          <span className="hint"><span className="hm">Pasá el mouse y tocá</span><span className="ht">Tocá</span> cualquier pieza para verla en grande</span>
+          <span className="hint"><span className="hm">Pasá el mouse y tocá</span><span className="ht">Tocá</span> cualquier pieza para ver en detalle</span>
         </header>
         <div className="pics">
           {pl.map((p, i) => (

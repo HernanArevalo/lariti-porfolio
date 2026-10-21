@@ -6,8 +6,8 @@
     "ratio": 1.3,
     "type": "photo",
     "hue": 18,
-    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285371/jbj2pak5sir8lviqo9y9.jpg",
-    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285371/jbj2pak5sir8lviqo9y9.jpg",
+    "src": "",
+    "poster": "",
     "label": ""
   },
   {
@@ -18,8 +18,8 @@
     "type": "video",
     "hue": 150,
     "src": "https://player.mux.com/zU3FZrWzb003QCaR9FzHYcYVnOcyUM01aeSpcTIvIBFMg?metadata-video-title=Bend+degustaci%C3%B3n&video-title=Bend+degustaci%C3%B3n",
-    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792284266/jhmebmhss6qrkfdu0ubb.png",
-    "label": "https://res.cloudinary.com/dabmixcta/image/upload/v1792284266/jhmebmhss6qrkfdu0ubb.png"
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792284266/lariti-website/jhmebmhss6qrkfdu0ubb.png",
+    "label": "Bend degustación"
   },
   {
     "x": 42,
@@ -72,8 +72,8 @@
     "ratio": 1,
     "type": "photo",
     "hue": 8,
-    "src": "",
-    "poster": "",
+    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792602107/lariti-website/twpofog42yatwu9vrkfw.jpg",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792602107/lariti-website/twpofog42yatwu9vrkfw.jpg",
     "label": ""
   },
   {
@@ -81,9 +81,9 @@
     "y": 38,
     "w": 11,
     "ratio": 1.5,
-    "type": "video",
+    "type": "photo",
     "hue": 22,
-    "src": "",
+    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792601472/lariti-website/cem5ocuh36hppnjgcldr.jpg",
     "poster": "",
     "label": ""
   },
@@ -94,8 +94,8 @@
     "ratio": 1.3,
     "type": "photo",
     "hue": 170,
-    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285429/lariti-website/rxdm7we4dq8n17rhuf2b.jpg",
-    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792285429/lariti-website/rxdm7we4dq8n17rhuf2b.jpg",
+    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792601453/lariti-website/ysaxolxn3h3qh0rzgolf.jpg",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792601453/lariti-website/ysaxolxn3h3qh0rzgolf.jpg",
     "label": ""
   },
   {
@@ -147,10 +147,10 @@
     "y": 81,
     "w": 12,
     "ratio": 1.5,
-    "type": "video",
+    "type": "photo",
     "hue": 30,
-    "src": "",
-    "poster": "",
+    "src": "https://res.cloudinary.com/dabmixcta/image/upload/v1792601462/lariti-website/yl1qwdrwk2i2p2px8xlu.jpg",
+    "poster": "https://res.cloudinary.com/dabmixcta/image/upload/v1792601462/lariti-website/yl1qwdrwk2i2p2px8xlu.jpg",
     "label": ""
   },
   {
