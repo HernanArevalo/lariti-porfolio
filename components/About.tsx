@@ -56,12 +56,17 @@ export default function About({ about, socials }: { about: Site['about']; social
               <a key={s.name} href={s.url} target="_blank" rel="noopener noreferrer">
                 <b>{s.name}</b>
                 <span>{s.handle}</span>
+                <br />
+
                 {s.stats.map((st) => (
                   <span key={st.label} style={{ display: 'contents' }}>
                     <Count v={st.value} />
                     <span className="lb">{st.label}</span>
                   </span>
                 ))}
+                {s.name === "YouTube" &&
+                  <span className='yt-empezando'>Empezando! :)</span>
+                }
               </a>
             ))}
           </div>

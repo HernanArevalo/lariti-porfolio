@@ -2,8 +2,8 @@
   "name": "Lari Tissera",
   "brand": "lariti.",
   "title": "Lari Tissera, creadora de contenido UGC",
-  "tagline": "Creadora de contenido UGC en video y foto",
-  "email": "hola@laritissera.com",
+  "tagline": "comunicadora de moda & lifestyle. creadora de contenido ugc",
+  "email": "sabrinalaratissera@gmail.com",
   "marquee": ["Reseñas", "Unboxing", "Rutinas", "Anuncios", "Lifestyle", "Producto", "Tutoriales", "Antes y después"],
   "nav": [
     { "id": "ugc", "label": "UGC" },
@@ -16,7 +16,7 @@
   "about": {
     "intro": "Creo contenido UGC en video y foto para marcas que quieren mostrarse con naturalidad.",
     "initials": "LT",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/dabmixcta/image/upload/v1792601462/lariti-website/jjbilpebtr4kucai3aes.jpg",
     "details": [
       { "label": "Nombre", "value": "Lari Tissera" },
       { "label": "Formatos", "value": "Video y foto" }
@@ -24,9 +24,9 @@
     "work": ["Creación de contenido UGC", "Edición de video", "Fotografía de producto", "Guiones y conceptos"]
   },
   "socials": [
-    { "name": "Instagram", "handle": "@laritissera", "url": "https://www.instagram.com/laritissera", "stats": [{ "value": 18200, "label": "seguidores" }, { "value": 240, "label": "publicaciones" }] },
-    { "name": "TikTok", "handle": "@lariti_", "url": "https://www.tiktok.com/@lariti_", "stats": [{ "value": 54300, "label": "seguidores" }, { "value": 1200000, "label": "me gusta" }] },
-    { "name": "YouTube", "handle": "@laritissera", "url": "https://www.youtube.com/@laritissera", "stats": [{ "value": 6100, "label": "suscriptores" }, { "value": 85, "label": "videos" }] }
+    { "name": "Instagram", "handle": "@laritissera", "url": "https://www.instagram.com/laritissera", "stats": [{ "value": 7130, "label": "seguidores" }, { "value": 961, "label": "publicaciones" }] },
+    { "name": "TikTok", "handle": "@lariti_", "url": "https://www.tiktok.com/@lariti_", "stats": [{ "value": 17900, "label": "seguidores" }, { "value": 735800, "label": "me gusta" }] },
+    { "name": "YouTube", "handle": "@laritissera", "url": "https://www.youtube.com/@laritissera", "stats": [{ "value": 104, "label": "suscriptores" }, { "value": 4, "label": "videos" }] }
   ],
-  "contact": { "title": "Hagamos algo juntas", "text": "Contame sobre tu marca y qué contenido necesitás. Te respondo con ideas y una propuesta.", "button": "Escribime" }
+  "contact": { "title": "Hagamos algo juntos", "text": "Contame sobre tu marca y qué contenido necesitás. Te respondo con ideas y una propuesta.", "button": "Escribime" }
 }
